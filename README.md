@@ -1,4 +1,22 @@
-# React + Vite
+# Deutsch Log
+
+A comprehensive German language learning application focused on daily conversations and test preparation.
+
+## Project Structure
+
+### 1. Daily Conversation
+
+- Collection of practical German expressions for daily use in Germany
+- Context-based learning of common phrases and idioms
+- Real-world usage examples and scenarios
+
+### 2. Test-Focused Learning
+
+- Structured learning materials and notes
+- Interactive quizzes based on learning materials
+- Progress tracking and resources
+
+## Getting Started
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
